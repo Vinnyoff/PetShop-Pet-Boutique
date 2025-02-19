@@ -13,7 +13,7 @@ O projeto foi desenvolvido com o objetivo de aplicar os novos conhecimentos adqu
 
 ## Amostra do website 
 
-<img width="1024px" src="img/Amostra-website">
+<img width="1024px" src="img/Amostra-website.jpeg">
 
 
   
